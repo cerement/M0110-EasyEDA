@@ -16,3 +16,5 @@ If you want to rebuild the firmware, the JSON file above should have the pinout/
 The rest of the files were documenting the pinouts and the matrix when using a ProMicro as the microcontroller
 
 [Gallery](https://imgur.com/a/IDL6cTn)
+
+![original M0110 layout](images/M0110-Crop.jpg)
